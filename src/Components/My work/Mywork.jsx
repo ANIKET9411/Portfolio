@@ -4,7 +4,7 @@ function Mywork() {
   let projects = [
     {
       type: "HTML",
-      image: "src/assets/tedtalk.png",
+      image: "src/Components/My work/photos/tedtalk.png",
       name: "TED TALKS",
       hosted_link: "https://aniket9411.github.io/TEDTALKS-Project/",
       github_link: "https://github.com/ANIKET9411/TEDTALKS-Project.git",
